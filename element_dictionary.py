@@ -1,4 +1,4 @@
-''' THERMAL CONDUCTIVITY'''
+''' THERMAL CONDUCTIVITY it's that dictionary'''
 thermal={'Hydrogen':0.1805,'Helium':0.1513,'Lithium':85,'Beryllium':9,'Boron':27,
          'Carbon':140,'Nitrogen':0.02583,'Oxygen':0.02583,'Flurine':0.0277,
          'Neon':0.0491,'Sodium':140,'Magnesium':160,'Aluminum':235,'Silicon':150,
