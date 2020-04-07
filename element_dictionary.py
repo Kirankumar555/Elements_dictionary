@@ -248,7 +248,7 @@ def search_mp_value(x):
 #         'Curium':1345, 'Berkelium':1050, 'Californium':900,
 #         'Einsteinium':860,'Fermium':1527,'Mendelevium':827,
 #         'Nobelium':827,'Lawrencium':1627
-         
+        
 
 
 
