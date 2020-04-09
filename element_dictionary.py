@@ -250,7 +250,25 @@ def search_mp_value(x):
 #         'Nobelium':827,'Lawrencium':1627
          
 
-
+thermal={'Hydrogen':13.856,'Helium':0.24.5874,'Lithium':5.391,'Beryllium':9.3227,'Boron':8.2980,
+         'Carbon':11.2603,'Nitrogen':14.5341,'Oxygen':13.6181,'Flurine':17.4228,
+         'Neon':21.5645,'Sodium':21.5645,'Magnesium'7.6462,'Aluminum':5.9858,'Silicon':28.0855,
+         'Phoshorous':10.4867,'Sulfur':10.3600,'Chlorine':12.9676,'Argon':15.7596,
+         'Potassium':4.3407,'Calcium':6.1122,'Scandium':6.5615,'Titanium':6.8281,'Vanadium':6.7462,
+         'Chromium':6.766,'Manganese,:7.430'Iron':7.90'Cobalt':7.88,'Nickel':7.669,'Copper':7.724,
+         'Zinc':9.3942,'Gallium':5.9993,'Germanium':7.8994,'Arsenic':9.7886,'Selenium':9.7524,
+         'Bromine':11.8138,'Krypton':13.9996,'Rubidium':4.1771,'Strontium':5.6949,'Yttrium':6.2173,
+         'Zirconium':6.6339,'Niobium':6.7589,'Molybdenum':7.0924,'Technetium':7.28,'Ruthenium':7.36,
+         'Rhodium':7.458,'Palladium':8.333,'Silver:7.5762,'Cadmium':8.9938,'Indium':5.7864,'Tin':7.3439,
+         'Antimony':8.6084,'Tellurium':9.0096,'Iodine':10.45,'Xenon':12.129,'Cesium':3.893,
+         'Barium':5.211,'Lanthanum':5.5769,'Cerium':5.538'Praseodymium':5.473,'Neodymium':5.520,
+         'Promethium':5.582,'Samarium':5.643,'Europium':5.6704,'Gadolinium':6.14,
+         'Terbium':5.8638,'Dysporosium':5.93,'Holmium':6.215,'Erbium':6.1077,'Thulium':6.1843,
+         'Ytterbium':6.254,'Lutentium':5.4259,'Hafnium':6.825,'Tantalum':7.549,'Tungsten':7.8640,
+         'Rhenium':7.8335,'Osmium':8.4382,'Iridium':8.9670,'Platinum':8.9588,'Gold:9.2255,'Mercury':10.4375
+         'Thallium':6.108,'Lead':7.416,'Bismuth':7.2855,'Polonium':8.417,'Astatine':Not found,
+         'Radon':10.7485,'Francium':4.07,'Radium':5.2784,'Actinium':5.17,'Thorium':6.306,
+         'Protactinium':5.89,'Uranium':6.1941,'Neptunium':6.2657,'Plutonium':6.0260,'Americium':5.9738}
 
 
 
