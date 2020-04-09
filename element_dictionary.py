@@ -250,7 +250,7 @@ def search_mp_value(x):
 #         'Nobelium':827,'Lawrencium':1627
          
 
-thermal={'Hydrogen':13.856,'Helium':0.24.5874,'Lithium':5.391,'Beryllium':9.3227,'Boron':8.2980,
+Ionization_enthalpy={'Hydrogen':13.856,'Helium':0.24.5874,'Lithium':5.391,'Beryllium':9.3227,'Boron':8.2980,
          'Carbon':11.2603,'Nitrogen':14.5341,'Oxygen':13.6181,'Flurine':17.4228,
          'Neon':21.5645,'Sodium':21.5645,'Magnesium'7.6462,'Aluminum':5.9858,'Silicon':28.0855,
          'Phoshorous':10.4867,'Sulfur':10.3600,'Chlorine':12.9676,'Argon':15.7596,
